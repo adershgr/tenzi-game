@@ -1,0 +1,3 @@
+#confetti on winning a game
+
+# time taken to complete is displaying at the end.
